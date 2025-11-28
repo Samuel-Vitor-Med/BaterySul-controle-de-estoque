@@ -1,0 +1,5 @@
+{
+  "name": "BaterySul",
+  "description": "Sistema inteligente de controle de estoque para loja de baterias com análise de inventário via IA.",
+  "requestFramePermissions": []
+}
